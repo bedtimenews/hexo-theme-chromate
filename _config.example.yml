@@ -150,3 +150,8 @@ comment:
   artalk:
     site: ''
     server: ''
+
+analytics:
+  umami:
+    websiteId: ''
+    server: ''
