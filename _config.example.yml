@@ -144,3 +144,9 @@ boardcast:
 # ------------------------------------------------------------
 # 站点悼念模式 - 启用后会为站点整体提供灰色滤镜
 mourn: false
+
+# Artalk Comment
+comment:
+  artalk:
+    site: ''
+    server: ''
