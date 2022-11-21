@@ -1,0 +1,15 @@
+<link href="<%= theme.comment.artalk.server %>/dist/Artalk.css" rel="stylesheet">
+<script src="<%= theme.comment.artalk.server %>/dist/Artalk.js"></script>
+
+<div id="Comments"></div>
+
+<script>
+  var artalk = new Artalk({
+    el: '#Comments',
+    pageKey: '<%= page.permalink %>',
+    pageTitle: '<%= page.title %>',
+    server: '<%= theme.comment.artalk.server %>',
+    site: '<%= theme.comment.artalk.site %>',
+    darkMode: "auto",
+  })
+</script>
