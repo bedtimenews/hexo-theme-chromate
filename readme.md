@@ -1,3 +1,6 @@
+# Notice
+This repo is forked from [guiqiqi/chromate](https://github.com/guiqiqi/chromate) maily for personal perpose
+
 [中文版本](https://github.com/guiqiqi/chromate/blob/main/readme-zh.md)
 
 # Theme Chromate
